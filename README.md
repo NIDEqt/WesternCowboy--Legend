@@ -1,2 +1,2 @@
-# WesternCowboy--Legend
+# Western--Legend
 First regular project
